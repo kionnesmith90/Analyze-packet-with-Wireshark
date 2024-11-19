@@ -22,8 +22,6 @@ Analyzing packets for malicious activity using Wireshark
 
 2. Searched for the first packet that lists TCP as a protocol (double clicked)
 
-![image](https://github.com/user-attachments/assets/b8618bae-41e7-4f0a-9826-7c765c0ede07)
-
 3. First objective was to find the destination port within the Transmission control protocol subtree
 
 ![image](https://github.com/user-attachments/assets/526b7df4-7239-40cd-b914-24525f12b22e)
